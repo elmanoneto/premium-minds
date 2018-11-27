@@ -2,6 +2,8 @@
 
 ### To run
 
+You need to install nodejs.
+
 What things you need to install the software and how to install them
 
 ```
